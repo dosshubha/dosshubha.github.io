@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : "Shubhajit Das"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Academic webpage of Dr. Shubhajit Das"
+url                      : https://dosshubha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Shubhajit Das"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD"
+  location         : "Dresden"
+  employer         : "TU Dresden"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shubhajit.das@tu-dresden.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
