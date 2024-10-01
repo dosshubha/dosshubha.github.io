@@ -11,4 +11,4 @@ redirect_from:
 
 I am a computational chemist with expertise in catalysis and organic emitters. My current research combines computational modeling, machine learning and optimization algorithms to build high-throughput and inverse design pipelines for the discovery of functional materials.
 
-This page is under construction!
+This website is under construction!
