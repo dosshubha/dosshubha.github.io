@@ -6,7 +6,7 @@ title: "Shubhajit Das"
 classes: wide
 ---
 
-I am currently hosted as a Marie Skłodowska-Curie Fellow in the Chair of Theoretical Chemistry (Prof. Thomas Heine) at TU Dresden, Germany. Previously, I was a postdoc in Prof. Clemence Corminboeuf's group (LCMD) at EPFL, Switzerland. Prior to joining LCMD, I obtained my PhD working with Prof. Swapan K. Pati at Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) in Bangalore, India.
+I am currently hosted as a **Marie Skłodowska-Curie Fellow** in the Chair of Theoretical Chemistry (Prof. Thomas Heine) at TU Dresden, Germany. Previously, I was a postdoc in Prof. Clemence Corminboeuf's group (LCMD) at EPFL, Switzerland. Prior to joining LCMD, I obtained my PhD working with Prof. Swapan K. Pati at Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR) in Bangalore, India.
 
 I work at the interface of computational chemistry, quantum mechanics and machine learning to design catalysts and materials for energy and sustainability. 
 
