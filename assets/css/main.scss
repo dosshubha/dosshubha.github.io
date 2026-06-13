@@ -3,26 +3,31 @@
 
 @import "minimal-mistakes";
 
-/* Reduce overall text size */
+/* Custom font sizes */
 html {
-  font-size: 14px;
+  font-size: 13px !important;
 }
 
-/* Slightly smaller main page text */
+body {
+  font-size: 13px !important;
+}
+
 .page__content {
-  font-size: 0.9em;
+  font-size: 0.85em !important;
 }
 
-/* Smaller title */
 .page__title {
-  font-size: 1.8em;
+  font-size: 1.7em !important;
 }
 
-/* Smaller headings */
+.page__content h1 {
+  font-size: 1.8em !important;
+}
+
 .page__content h2 {
-  font-size: 1.35em;
+  font-size: 1.3em !important;
 }
 
 .page__content h3 {
-  font-size: 1.15em;
-}:w
+  font-size: 1.1em !important;
+}
