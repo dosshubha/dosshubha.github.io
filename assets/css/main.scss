@@ -1,0 +1,28 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* Reduce overall text size */
+html {
+  font-size: 14px;
+}
+
+/* Slightly smaller main page text */
+.page__content {
+  font-size: 0.9em;
+}
+
+/* Smaller title */
+.page__title {
+  font-size: 1.8em;
+}
+
+/* Smaller headings */
+.page__content h2 {
+  font-size: 1.35em;
+}
+
+.page__content h3 {
+  font-size: 1.15em;
+}:w
