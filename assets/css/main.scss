@@ -66,3 +66,18 @@ html {
 .btn--primary {
   background-color: #174a7c !important;
 }
+.author__avatar {
+  width: 180px !important;
+  height: 180px !important;
+  margin: 0 auto 1rem auto !important;
+}
+
+.author__avatar img {
+  width: 180px !important;
+  height: 180px !important;
+  max-width: none !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  object-position: center center !important;
+  display: block !important;
+}
