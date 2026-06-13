@@ -41,7 +41,7 @@ footer:
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=dzEfXP0AAAAJ&view_op=list_works&sortby=pubdate"
     - label: "ORCID"
-      icon: "ai ai-orcid ai-fw"
+      icon: "fas fa-fw fa-id-badge"
       url: "https://orcid.org/0000-0002-8027-6781"
 
 author:
