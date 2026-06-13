@@ -3,7 +3,6 @@ layout: single
 author_profile: true
 permalink: /
 title: "Shubhajit Das"
-classes: wide
 ---
 
 I am a **Marie Skłodowska-Curie Actions Fellow** and **Postdoctoral Researcher** at **Technische Universität Dresden**, working with Prof. Thomas Heine. My research combines computational chemistry, quantum chemical modeling, high-throughput screening, inverse design, and machine learning to accelerate the discovery of catalysts and functional porous materials.
@@ -17,11 +16,14 @@ My recent work focuses on **metal-organic frameworks**, **frustrated Lewis pair 
 
 ## Research areas
 
-<div class="feature__wrapper">
-  <div class="feature__item"><div class="archive__item"><h3>Catalyst design</h3><p>Computational design of homogeneous and heterogeneous catalysts, including frustrated Lewis pairs and CO₂ hydrogenation catalysts.</p></div></div>
-  <div class="feature__item"><div class="archive__item"><h3>Porous materials</h3><p>Metal-organic frameworks and related porous materials for catalysis, gas adsorption, and molecular separation.</p></div></div>
-  <div class="feature__item"><div class="archive__item"><h3>Machine learning</h3><p>Predictive models, high-throughput workflows, machine-learning potentials, and inverse design strategies for chemical discovery.</p></div></div>
-</div>
+### Catalyst design
+Computational design of homogeneous and heterogeneous catalysts, including frustrated Lewis pairs and CO₂ hydrogenation catalysts.
+
+### Porous materials
+Metal-organic frameworks and related porous materials for catalysis, gas adsorption, and molecular separation.
+
+### Machine learning
+Predictive models, high-throughput workflows, machine-learning potentials, and inverse design strategies for chemical discovery.
 
 ## Selected publications
 
