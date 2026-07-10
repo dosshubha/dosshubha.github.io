@@ -14,7 +14,7 @@ I am currently hosted as a Marie Skłodowska-Curie Fellow in the Chair of Theore
 
 ## Research areas
 
-I work at the interface of computational chemistry, quantum mechanics and machine learning to design catalysts and materials for energy and sustainability. 
+I work at the interface of computational chemistry, quantum mechanics and machine learning to design catalysts and materials for energy and sustainability. Please take a look at my research page to know more about the specific projects.
 
 ## Selected publications
 
