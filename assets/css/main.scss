@@ -81,3 +81,8 @@ html {
   object-position: center center !important;
   display: block !important;
 }
+
+.page__content p {
+    text-align: justify;
+    hyphens: auto;
+}
