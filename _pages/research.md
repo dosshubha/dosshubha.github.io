@@ -46,4 +46,4 @@ My current research is centered on the inverse design of metal–organic framewo
 Two-dimensional polymeric materials, particularly covalent organic frameworks (COFs), are emerging as promising candidates for sustainable energy applications, ranging from ion-selective membranes to next-generation battery electrodes. As part of the ERC-funded 2DPolyMem project, my research focuses on developing machine learning models to predict the electrochemical properties of COFs directly from their chemical structures. These predictive models enable the rapid screening of large materials libraries and provide design principles for discovering high-performance electrode materials for next-generation energy storage.
 
 - **[When Are Two-Dimensional Covalent-Organic Frameworks Good Electrodes for Lithium Ion Batteries? A Data-Driven Analysis](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15005489/v1)**  
-  *Nature Communications* **2026**
+  *ChemRxiv* **2026**
