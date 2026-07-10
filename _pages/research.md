@@ -13,7 +13,7 @@ A major focus of my research is developing predictive models for catalyst discov
 
 ### Representative publications
 
-- **[Inverse design of frustrated Lewis pairs for direct catalytic CO₂ hydrogenation](https://doi.org/10.1039/D5SC07797A)**  
+- **[Inverse design of frustrated Lewis pairs for direct catalytic CO₂ hydrogenation](https://pubs.rsc.org/sc/article/17/14/7071/911575/Inverse-design-of-frustrated-Lewis-pairs-for)**  
   *Chemical Science* **2026**
 
 - **[Design of frustrated Lewis pair catalysts for direct hydrogenation of CO₂](https://doi.org/10.1002/anie.202208987)**  
@@ -22,7 +22,7 @@ A major focus of my research is developing predictive models for catalyst discov
 - **[Mapping active site geometry to activity in immobilized frustrated Lewis pair catalysts](https://doi.org/10.1002/anie.202202727)**  
   *Angewandte Chemie International Edition* **2022**
 
-- **[Microkinetic molecular volcano plots for enhanced catalyst selectivity and activity predictions](https://pubs.acs.org/doi/10.1021/acscatal.4c02248)**  
+- **[Microkinetic molecular volcano plots for enhanced catalyst selectivity and activity predictions](https://pubs.acs.org/doi/full/10.1021/acscatal.4c01175)**  
   *ACS Catalysis* **2024**
 
 - **[Constructing and interpreting volcano plots and activity maps to navigate homogeneous catalyst landscapes](https://www.nature.com/articles/s41596-022-00735-4)**  
