@@ -9,7 +9,7 @@ I work at the interface of computational chemistry, quantum mechanics and machin
 
 ## Predictive discovery in catalysis
 
-A major focus of my research is developing predictive models for catalyst discovery. One of the biggest challenges in catalysis is that catalyst performance is determined by an entire reaction mechanism rather than the properties of a single molecule. To address this, we develop mechanism-informed regression models trained on DFT-computed reaction data. By using chemically and physically meaningful descriptor variables, these models can predict catalyst performance orders of magnitude faster than conventional DFT calculations, making it possible to screen much larger chemical spaces and discover new catalysts -sometimes even those that go against conventional design heuristics - for industrially relevant reactions.
+A major focus of my research is developing predictive models for catalyst discovery.One of the biggest challenges in catalysis is that catalytic properties are determined by the "process", rather than solely by the properties of the "catalyst", making prediction particularly challenging. To address this, we develop mechanism-informed regression models trained on DFT-computed reaction data. By using chemically and physically meaningful descriptor variables, these models can predict catalyst performance orders of magnitude faster than conventional DFT calculations, making it possible to screen much larger chemical spaces and discover new catalysts -sometimes even those that go against conventional design heuristics - for industrially relevant reactions.
 
 ### Representative publications
 
@@ -34,6 +34,9 @@ A major focus of my research is developing predictive models for catalyst discov
 My current research is centered on the inverse design of metal–organic frameworks (MOFs). MOFs are highly versatile materials with enormous potential for applications in catalysis, molecular separation, sensing, and energy. Their modular and tunable structures provide a virtually limitless design space, making the discovery of optimal materials both exciting and challenging. Unlike the traditional trial-and-error approach or the brute-force screening thousands of existing materials, inverse design starts from a desired property—such as catalytic activity, selectivity, or adsorption performance—and works backwards to generate materials that are most likely to achieve it. This shift from "screening to generating" enables a more efficient exploration of the vast MOF chemical space. My research focuses on developing digital tools that combine quantum chemistry, cheminformatics, machine learning, and optimization algorithms to efficiently navigate this vast chemical space. Different applications require predicting different material properties and often demand different levels of computational accuracy. For example, understanding light isotope separation requires accurately capturing nuclear quantum effects, while designing MOF catalysts requires simultaneously accounting for reaction kinetics and molecular diffusion within porous networks. My current work aims to develop efficient computational workflows that bridge this gap, enabling the rapid discovery and rational design of MOFs for small-molecule conversion, isotope separation, and sensing applications. 
 
 ### Representative publications
+
+- **[Prediction of strong Cu(I)–He interaction at open metal sites enables isotope-selective helium adsorption](https://www.nature.com/articles/s41467-026-70901-6)**  
+  *Nature Communications* **2026**
 
 - **[Prediction of strong Cu(I)–He interaction at open metal sites enables isotope-selective helium adsorption](https://www.nature.com/articles/s41467-026-70901-6)**  
   *Nature Communications* **2026**
