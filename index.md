@@ -25,3 +25,39 @@ I work at the interface of computational chemistry, quantum mechanics and machin
 - R. Laplaza, S. Das, M. D. Wodrich, C. Corminboeuf, **Constructing and interpreting volcano plots and activity maps to navigate homogeneous catalyst landscapes**, *Nature Protocols* **2022**, 17, 2550–2569.
 
 [View all publications](/publications/){: .btn .btn--primary}
+
+<h2>Featured Publications</h2>
+
+<div class="publication-covers">
+
+  <a class="publication-cover"
+     href="https://doi.org/10.1038/s41596-022-00735-4"
+     target="_blank"
+     rel="noopener">
+    <img
+      src="/assets/images/publications/nature-protocols-cover.png"
+      alt="Nature Protocols cover">
+    <p>Predicting catalyst performance</p>
+  </a>
+
+  <a class="publication-cover"
+     href="https://doi.org/10.1002/anie.202207938"
+     target="_blank"
+     rel="noopener">
+    <img
+      src="/assets/images/publications/angewandte-cover.png"
+      alt="Angewandte Chemie cover">
+    <p>Frustration under control</p>
+  </a>
+
+  <a class="publication-cover"
+     href="PASTE-YOUR-CHEMICAL-SCIENCE-PAPER-LINK-HERE"
+     target="_blank"
+     rel="noopener">
+    <img
+      src="/assets/images/publications/chemical-science-cover.png"
+      alt="Chemical Science cover">
+    <p>Theory-guided catalyst development</p>
+  </a>
+
+</div>
