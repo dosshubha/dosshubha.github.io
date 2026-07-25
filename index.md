@@ -31,7 +31,7 @@ I work at the interface of computational chemistry, quantum mechanics and machin
 <div class="publication-covers">
 
   <a class="publication-cover"
-     href="https://doi.org/10.1038/s41596-022-00735-4"
+     href="https://www.nature.com/articles/s41596-022-00726-2"
      target="_blank"
      rel="noopener">
     <img
@@ -51,7 +51,7 @@ I work at the interface of computational chemistry, quantum mechanics and machin
   </a>
 
   <a class="publication-cover"
-     href="PASTE-YOUR-CHEMICAL-SCIENCE-PAPER-LINK-HERE"
+     href="pubs.rsc.org/sc/article-abstract/14/11/2799/787114"
      target="_blank"
      rel="noopener">
     <img
