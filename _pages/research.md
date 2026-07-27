@@ -35,8 +35,8 @@ My current research is centered on the inverse design of metal–organic framewo
 
 ### Representative publications
 
-- **[Prediction of strong Cu(I)–He interaction at open metal sites enables isotope-selective helium adsorption](https://www.nature.com/articles/s41467-026-70901-6)**  
-  *Nature Communications* **2026**
+- **[Capturing Activity Trends in Metal-Organic Framework Catalysis using Minimal Active Site Models](https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15006082/v1)**  
+  *ChemRxiv* **2026**
 
 - **[Prediction of strong Cu(I)–He interaction at open metal sites enables isotope-selective helium adsorption](https://www.nature.com/articles/s41467-026-70901-6)**  
   *Nature Communications* **2026**
