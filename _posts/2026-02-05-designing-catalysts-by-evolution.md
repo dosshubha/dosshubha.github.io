@@ -16,9 +16,7 @@ excerpt: >
   Lewis pair catalysts for CO₂ hydrogenation.
 header:
   teaser: /assets/images/blog/flp-ga/cover.jpg
-toc: true
 layout: single
-toc_sticky: true
 ---
 
 Finding a good catalyst is a bit like looking for a needle in a haystack.
