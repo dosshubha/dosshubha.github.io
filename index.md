@@ -26,6 +26,8 @@ I work at the interface of computational chemistry, quantum mechanics and machin
 
 [View all publications](/publications/){: .btn .btn--primary}
 
+<a href="/posts/" class="btn btn--primary">Read my posts</a>
+
 <h2>Featured Publications</h2>
 
 <div class="publication-covers">

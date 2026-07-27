@@ -11,3 +11,5 @@ main:
     url: /cv/
   - title: "Contact"
     url: /contact/
+  - title: "Posts"
+    url: /posts/
