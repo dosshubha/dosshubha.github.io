@@ -34,6 +34,8 @@ In our recent work, published in *Chemical Science*, we tackled this challenge f
 
 Frustrated Lewis pairs (FLPs) are combinations of a Lewis acid and a Lewis base in close physical proximity. At first glance, a Lewis acid and a Lewis base should simply react with each other and call it a day. In an FLP, however, bulky substituents or clever molecular design prevent this from happening. The two reactive centers remain close enough to cooperate, but not close enough to quench each other. This "frustration" gives rise to remarkable catalytic properties, including the ability to perform catalysis without the need for transition metals. These cooperative mechanism a both a triumph and a chellenge for their discovery - the two centers must have the right balance of acidity and basicity while being held at just the right distance and orientation. This intricate interplay makes discovering new FLP catalysts considerably more challenging than optimizing conventional single-site catalysts. 
 
+---
+
 ## Why conventional screening reaches its limits
 
 Our previous work established quantitative design rules for highly active FLPs based on two simple ingredients:
