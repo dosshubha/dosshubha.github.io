@@ -17,6 +17,7 @@ excerpt: >
 header:
   teaser: /assets/images/blog/flp-ga/cover.jpg
 toc: true
+layout: single
 toc_sticky: true
 ---
 
