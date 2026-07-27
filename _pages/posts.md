@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-Here I write about excerpts of my papers.
+Here I write excerpts of my papers.
 
 {% for post in site.posts %}
 
