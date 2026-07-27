@@ -133,3 +133,14 @@ html {
     margin-right: auto;
   }
 }
+.layout--single .page {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+@media (min-width: 1024px) {
+  .layout--single .page {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+}
