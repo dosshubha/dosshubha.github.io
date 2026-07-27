@@ -133,14 +133,17 @@ html {
     margin-right: auto;
   }
 }
-.layout--single .page {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
+/* Add horizontal spacing to individual post pages */
+.layout--single .page__inner-wrap,
+.layout--single .page__content {
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
-@media (min-width: 1024px) {
-  .layout--single .page {
-    padding-left: 3rem;
-    padding-right: 3rem;
+@media (max-width: 600px) {
+  .layout--single .page__inner-wrap,
+  .layout--single .page__content {
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 }
