@@ -17,19 +17,22 @@ excerpt: >
 header:
   teaser: /assets/images/blog/flp-ga/cover.jpg
 toc: true
-layout: single
 toc_sticky: true
 ---
 
 Finding a good catalyst is a bit like looking for a needle in a haystack.
 
-Chemists can often imagine thousands—or even billions—of possible molecular structures that might catalyze a reaction, but evaluating every candidate with quantum chemistry is simply impossible. This raises a fundamental question:
+Chemists can often imagine thousands—or even billions—of possible molecular structures that might catalyze a reaction, but experimentally testing every candidate is simply impossible. Instead, quantum mechanical calculations allow us to evaluate catalysts in silico before investing in expensive experiments. Because catalysis is ultimately about breaking and forming chemical bonds, there is no shortcut around quantum mechanics. Yet when the search space contains billions of possible molecules, even computational screening becomes computationally intractable. This raises a fundamental question:
 
 > **How can we search an enormous chemical space without exhaustively computing every molecule?**
 
 In our recent work, published in *Chemical Science*, we tackled this challenge for **frustrated Lewis pair (FLP)** catalysts that convert carbon dioxide into formate—a reaction relevant to carbon capture and utilization.
 
 ---
+
+## Why FLPs are worth discovering and why is it challenging?
+
+Frustrated Lewis pairs (FLPs) are combinations of a Lewis acid and a Lewis base in close physical proximity. At first glance, a Lewis acid and a Lewis base should simply react with each other and call it a day. In an FLP, however, bulky substituents or clever molecular design prevent this from happening. The two reactive centers remain close enough to cooperate, but not close enough to quench each other. This "frustration" gives rise to remarkable catalytic properties, including the ability to perform catalysis without the need for transition metals. These cooperative mechanism a both a triumph and a chellenge for their discovery - the two centers must have the right balance of acidity and basicity while being held at just the right distance and orientation. This intricate interplay makes discovering new FLP catalysts considerably more challenging than optimizing conventional single-site catalysts. 
 
 ## Why conventional screening reaches its limits
 
